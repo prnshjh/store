@@ -38,8 +38,28 @@ store-MERN/
 
 ### Clone the Repository
 ```bash
+
+
 git clone https://github.com/your-username/store-MERN.git
-cd store-MERN
+cd store
+
+Folder Structure
+store-MERN/
+├── backend/
+│   ├── config/          # Database connection configuration
+│   ├── models/          # Mongoose models
+│   ├── routes/          # API routes
+│   ├── server.js        # Main server file
+│   └── .env             # Environment variables
+├── frontend/
+│   ├── src/
+│   │   ├── components/  # React components
+│   │   ├── pages/       # React pages
+│   │   ├── App.jsx      # Main React app
+│   │   └── main.jsx     # React entry point
+│   └── public/          # Static assets
+├── README.md            # Project documentation
+└── [package.json](http://_vscodecontentref_/0)
 
 cd store
 npm install
