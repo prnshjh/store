@@ -8,7 +8,7 @@ A full-stack e-commerce application built using the MERN stack (MongoDB, Express
 - **Backend**: Built with Node.js and Express for handling API requests.
 - **Database**: MongoDB for storing product data.
 - **Routing**: React Router for navigation.
-- **State Management**: React hooks for managing state.
+- **State Management**: Zustand for managing state.
 - **Styling**: Chakra UI for consistent and customizable design.
 
 ---
